@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digitalworld/static/css/main.cf787146.css",
+    "main.js": "/digitalworld/static/js/main.a6b1bc8b.js",
+    "static/js/787.5e580bcf.chunk.js": "/digitalworld/static/js/787.5e580bcf.chunk.js",
+    "index.html": "/digitalworld/index.html",
+    "main.cf787146.css.map": "/digitalworld/static/css/main.cf787146.css.map",
+    "main.a6b1bc8b.js.map": "/digitalworld/static/js/main.a6b1bc8b.js.map",
+    "787.5e580bcf.chunk.js.map": "/digitalworld/static/js/787.5e580bcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf787146.css",
+    "static/js/main.a6b1bc8b.js"
+  ]
+}
